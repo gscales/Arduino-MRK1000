@@ -26,7 +26,7 @@ String ExPassword = "password";
 //Message Details
 String Auth = ExUserName + ":" + ExPassword;
 String Subject = "Subject of the Message";
-String To = "gscales@msgdevelop.com";
+String To = "user@domain.com";
 String Body = "Something happening in the Body";
 
 
