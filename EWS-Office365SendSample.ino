@@ -2,8 +2,8 @@
 #include <ArduinoHttpClient.h>
 
 /*
-This example creates a connection to Office365 and Send a Message
-vai SOAP
+This example creates a connection to Office365 and Send a Email
+via SOAP
 
 Uses code from the following examples
 
